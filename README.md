@@ -1,5 +1,3 @@
-# Sample code of a simple NFT game using Sui Move
-
 ## Functionalities
 * Mint a Warrior NFT
 * Mint weapon NFTs that you can equip/unequip
