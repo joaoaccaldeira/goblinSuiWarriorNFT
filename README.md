@@ -1,6 +1,4 @@
-# goblinSuiWarriorNFT
-
-Sample code developed by myself using Sui Move of a simple NFT game.
+# Sample code developed by myself using Sui Move of a simple NFT game.
 
 Functionalities:
 -> Mint a Warrior NFT
