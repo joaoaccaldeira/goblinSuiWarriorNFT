@@ -1,3 +1,5 @@
+#GoblinSuiWarriorNFT README
+
 ## Functionalities
 * Mint a Warrior NFT
 * Mint weapon NFTs that you can equip/unequip
