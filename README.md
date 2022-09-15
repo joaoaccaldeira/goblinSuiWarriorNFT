@@ -1,4 +1,4 @@
-# Sample code developed by myself using Sui Move of a simple NFT game.
+# Sample code of a simple NFT game using Sui Move
 
 Functionalities:
 -> Mint a Warrior NFT
