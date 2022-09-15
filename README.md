@@ -1,4 +1,4 @@
-#GoblinSuiWarriorNFT
+# GoblinSuiWarriorNFT README
 
 ## Functionalities
 * Mint a Warrior NFT
