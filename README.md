@@ -12,4 +12,5 @@
 * NFTGlobalData is a shared object that contains data regarding the state of the whole GoblinSuiNFT ecosystem.
 * Equipped weapons are wrapped within the warrior NFT struct.
 
-Note: Switch dependencies path according to your own local Sui folder directory.
+## Note:
+* Switch dependencies path according to your own local Sui folder directory.
