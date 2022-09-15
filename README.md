@@ -1,6 +1,5 @@
 # Goblin Sui Warrior NFT
 
-## Functionalities
 * Mint a Warrior NFT
 * Mint weapon NFTs that you can equip/unequip
 * Battle against bosses with your warrior
