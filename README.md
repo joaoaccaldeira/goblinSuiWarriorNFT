@@ -2,7 +2,7 @@
 
 Visit the website: https://goblinsuinft.web.app/
 
-##Features
+## Features
 
 * Mint a Warrior NFT
 * Mint weapon NFTs that you can equip/unequip
