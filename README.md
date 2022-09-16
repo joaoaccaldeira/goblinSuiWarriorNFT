@@ -1,5 +1,9 @@
 # Goblin Sui Warrior NFT
 
+Visit the website: https://goblinsuinft.web.app/
+
+** Features
+
 * Mint a Warrior NFT
 * Mint weapon NFTs that you can equip/unequip
 * Battle against bosses with your warrior
