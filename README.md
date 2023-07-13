@@ -1,7 +1,3 @@
-# Goblin Sui Warrior NFT
-
-Visit the website: https://goblinsuinft.web.app/
-
 ## Features
 
 * Mint a Warrior NFT
